@@ -3,10 +3,6 @@ Projeto para exemplo de utilização do Prisma
 
 ## Como baixar o projeto?
 
-Projeto utilizado para exemplo de deploy utilizando Vercel
-
-## Como baixar o projeto?
-
 ```bash
     // Clonar repositório
     $ git clone https://github.com/maxwelllbarboza/API-SISTEMA-LOGIN.git
