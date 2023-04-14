@@ -3,8 +3,6 @@ Projeto para exemplo de utilização do Prisma
 
 ## Como baixar o projeto?
 
-### Deploy Vercel
-
 Projeto utilizado para exemplo de deploy utilizando Vercel
 
 ## Como baixar o projeto?
