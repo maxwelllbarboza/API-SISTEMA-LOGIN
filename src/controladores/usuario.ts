@@ -24,7 +24,6 @@ async function consultarUmUsuarios(req:Request, res: Response){
         })
         if(!usuario){
             return res.status(400).json({message: " Usuário não existe."})
-
         }
         return res.status(200).json(usuario)
 
