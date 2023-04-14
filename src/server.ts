@@ -11,4 +11,4 @@ app.use(rotas);
 
 const port = process.env.PORT
 
-app.listen(port, ()=> console.log(`Servidor subiu na porta ${port}`))
+app.listen(port)

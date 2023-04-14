@@ -16,7 +16,7 @@ async function consultarTodosUsuarios(req:Request, res: Response){
 async function consultarUmUsuarios(req:Request, res: Response){
     try{
         const { id } = req.params;
-        console.log(typeof(id))
+        
         const usuario = await prismaClient.usuario.findUnique({
             where:{
                 id: Number(id)
