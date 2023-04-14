@@ -32,7 +32,6 @@ async function consultarUmUsuarios(req:Request, res: Response){
     }   
 }
 
-
 async function cadastrarUsuario(req: Request, res: Response){
     const {nome, email, senha} = req.body;
 
