@@ -11,10 +11,10 @@ Projeto utilizado para exemplo de deploy utilizando Vercel
 
 ```bash
     // Clonar repositório
-    $ git clone https://github.com/danileao/deploy_vercel
+    $ git clone https://github.com/maxwelllbarboza/API-SISTEMA-LOGIN.git
 
     // Acessar diretório
-    $ cd deploy_vercel
+    $ cd API-SISTEMA-LOGIN
 
     // Instalar dependências
     $ npm install
